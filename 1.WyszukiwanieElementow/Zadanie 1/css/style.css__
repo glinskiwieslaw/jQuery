@@ -1,0 +1,7 @@
+.borderClass {
+    border:1px solid green;
+    padding:2px 5px;
+}
+
+.redLinks { color: red;
+}
